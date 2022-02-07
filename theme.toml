@@ -1,0 +1,12 @@
+name = "simplify"
+description = "A minimal blog theme built with simple.css"
+license = "MIT"
+homepage = "https://github.com/tarunjana/simplify"
+min_version = "0.4.0"
+demo = "https://simplify.netlify.app"
+
+[extra]
+
+[author]
+name = "Tarun Jana"
+homepage = "https://www.tarunjana.in/"
