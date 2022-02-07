@@ -1,5 +1,5 @@
 # Main settings
-base_url = "https://simplify.netlify.app/"
+base_url = "https://simplify-zola.netlify.app/"
 title = "Simplify"
 description = "Simplify is a Zola theme built with simple.css"
 default_language = "en"
