@@ -7,6 +7,8 @@ To have a taste of what Simplify is, please click [here](https://simplify-zola.n
 
 ## Screenshot
 
+![Screenshot](/screenshot.png)
+
 ## Installation
 
 Install Zola in your machine as described in the [official docs](https://www.getzola.org/documentation/getting-started/installation/) and follow the steps below to use Simplify theme in your site.
