@@ -3,6 +3,8 @@ Simplify is a minimal [Zola](https://www.getzola.org/) theme built with
 
 ## Demo
 
+To have a taste of what Simplify is, please click [here](https://simplify-zola.netlify.app).
+
 ## Screenshot
 
 ## Installation
@@ -41,10 +43,13 @@ theme = "simplify"
 
 ## Features
 
-1. Avatar
-2. Custom head
-3. Favicon
-4. KaTex
+1. Auto dark/light mode according to system preference
+2. Inject anything in the `<head>...</head>` tag.
+3. Math typesetting with KaTeX.
+
+## Documentation
+
+Please see the [wiki](https://github.com/tarunjana/simplify/wiki).
 
 ## Credit
 
@@ -53,3 +58,7 @@ This theme is the product of some awesome projects listed below:
 - [Zola](https://www.getzola.org/)
 - [Simple.css](https://simplecss.org/)
 - [KaTeX](https://katex.org/)
+
+## License
+
+[MIT](https://mit-license.org)

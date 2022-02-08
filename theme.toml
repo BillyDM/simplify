@@ -2,8 +2,8 @@ name = "simplify"
 description = "A minimal blog theme built with simple.css"
 license = "MIT"
 homepage = "https://github.com/tarunjana/simplify"
-min_version = "0.4.0"
-demo = "https://simplify.netlify.app"
+min_version = "0.15.3"
+demo = "https://simplify-zola.netlify.app"
 
 [extra]
 
