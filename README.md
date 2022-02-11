@@ -7,7 +7,7 @@ To have a taste of what Simplify is, please click [here](https://simplify-zola.n
 
 ## Screenshot
 
-![Screenshot](/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/tarunjana/simplify/master/screenshot.png)
 
 ## Installation
 
